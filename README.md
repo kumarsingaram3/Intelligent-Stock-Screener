@@ -2,10 +2,45 @@
 
 Building a stock screening tool using KMeans clustering to help investors speed up their investment process and identify overlooked opportunities in the market
 
+## Project Description
 
-### How to Use K-Means Clustering Stock Screener
+There are many tools investors use to both discover and analyze different potential investments. One popular tool for discovery & analysis is the stock screener. This tool helps investors narrow down potential investments based on their own criteria. The criteria filter could be placed on anything from how fast the company grows sales to one specific industry the investor wants to analyze.
 
-Below are the instructions for how to use the K-Means Clustering Stock Screener. The first two sections cover both tabs within the stock screener. The final section reviews all the financial terminology used in the tool.
+The problem with the stock screener is that companies are grouped in a rule based way. What if we could instead, group potential investments algorithmically, allowing companies to cluster naturally with one another based on their individual characteristics? To solve this problem, we will be using a popular unsupervised learning algorithm known as a K-Means to build an investment tool integrated with Power BI to help investors speed up their investment process and identify overlooked opportunities in the market relative to their true peer group.
+
+## Technologies
+
+* Python
+* Pandas
+* Numpy
+* Seaborn
+* Jupyter
+* Sklearn
+* BeautifulSoup
+
+## Methods
+
+* Web Scraping
+* Feature Engineering
+* Data Visualization
+* Unsupervised Learning Techniques
+* Investment Research
+
+## How to Use K-Means Clustering Stock Screener
+
+Below are the instructions for how to use the K-Means Clustering Stock Screener. 
+
+### Installation & Instructions
+
+**To run the script that refreshes with the latest financial information from Yahoo Finance:**
+
+* Clone this repo to your computer
+* Install necessary packages noted under Technologies
+* Save ticker_list.csv to your computer (update ticker data as desired)
+
+**To learn how to use the stock screening tool, follow the instructions below:**
+
+The first two sections cover both tabs within the stock screener. The final section reviews all the financial terminology used in the tool.
 
 ### Tab 1 – Screener
 
