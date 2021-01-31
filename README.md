@@ -42,7 +42,7 @@ Below are the instructions for how to use the K-Means Clustering Stock Screener.
 
 The first two sections cover both tabs within the stock screener. The final section reviews all the financial terminology used in the tool.
 
-### Tab 1 – Screener
+**Tab 1 – Screener**
 
 **Choose Group:**
 There are 11 total groups to choose from. Each group has a set of characteristics associated with it, based on a company’s Gross Margin, Operating Margin, Research & Development, General Administrative Expenses, Free Cash Flow, Capital Expenditures, 3 Year Average Sales Growth, and 3 Year Average Net Income Growth.
@@ -79,7 +79,7 @@ Users can scroll to choose a specific stock ticker using this filter. This will 
 
 The company overview table provides high level details of each company including its Cluster Group, Market Capitalization, Price to Sales (PS), Price to Earnings (PE), 3-Year Average Sales Growth, 3-Year Average Net Income Growth, PSG Ratio, and PEG Ratio. To sort the table by a specific column, users can click the column headers.
 
-### Tab 2 – Detail
+**Tab 2 – Detail**
 
 The detail tab reflects filters set in Cluster Group, Stock Ticker, and Market Cap chosen on the first tab. If the user selects a specific ticker on tab 1, the ticker should be reflected on the detail tab as well. This tab allows users to dig deeper into the efficiency and value of a company based on different metrics. 
 
@@ -98,7 +98,7 @@ Some companies are more sales oriented, which is where GAEFF can be an effective
 
 Metrics such as ROE, ROA, ROIC, ROIIC, Reinvestment Rate, and Compounding Rate are often used by value investors to get a sense of how efficiently a company can generate profits. These metrics are better suited for mature companies that consistently show profits. However, because many companies in the markets today have more intangible than tangible assets, these metrics may not always apply. Once again, the clusters can be used as a guide for when these may be relevant to the company being assessed. 
 
-### Financial Metrics Defined
+**Financial Metrics Defined**
 
 Below is all financial terminology used in the Stock Screener defined:
 
