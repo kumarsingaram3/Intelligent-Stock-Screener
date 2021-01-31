@@ -36,7 +36,7 @@ Below are the instructions for how to use the K-Means Clustering Stock Screener.
 
 * Clone this repo to your computer
 * Install necessary packages noted under Technologies
-* Save ticker_list.csv to your computer (update ticker data as desired)
+* Save [ticker_list.csv](https://github.com/kumarsingaram3/Clustering-Stock-Screener/blob/main/ticker_list.csv) to your computer (update ticker data as desired)
 
 **To learn how to use the stock screening tool, follow the instructions below:**
 
