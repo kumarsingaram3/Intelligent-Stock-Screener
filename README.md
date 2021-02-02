@@ -1,7 +1,7 @@
 # Clustering-Stock-Screener
 
 Built a stock screening tool using KMeans clustering to help investors speed up their investment process and identify overlooked opportunities in the market. The tool is available for use publicly, and can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiOTU1ODFhZDYtNTU0OC00YTg2LWJlZWEtMzcyMDgyY2NkZjRkIiwidCI6IjZkOTc1ZDdjLWJlZTMtNDNlZS05ZWM3LTI2YTc5Yzg5NGRlNyIsImMiOjF9&pageName=ReportSection
-). The script that forms clusters using the latest financial data from Yahoo Finance can be found [here](https://github.com/kumarsingaram3/Clustering-Stock-Screener/blob/main/portfolio_clustering.ipynb).
+). The Jupyter Notebook that forms clusters using the latest financial data from Yahoo Finance, including the thought process behind each decision, can be found [here](https://github.com/kumarsingaram3/Clustering-Stock-Screener/blob/main/portfolio_clustering.ipynb).
 
 ## Table of Contents
 
