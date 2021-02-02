@@ -1,7 +1,7 @@
 # Clustering-Stock-Screener
 
-Built a stock screening tool using KMeans clustering to help investors speed up their investment process and identify overlooked opportunities in the market. The tool is available publicly, and can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiOTU1ODFhZDYtNTU0OC00YTg2LWJlZWEtMzcyMDgyY2NkZjRkIiwidCI6IjZkOTc1ZDdjLWJlZTMtNDNlZS05ZWM3LTI2YTc5Yzg5NGRlNyIsImMiOjF9&pageName=ReportSection
-)
+Built a stock screening tool using KMeans clustering to help investors speed up their investment process and identify overlooked opportunities in the market. The tool is available for use publicly, and can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiOTU1ODFhZDYtNTU0OC00YTg2LWJlZWEtMzcyMDgyY2NkZjRkIiwidCI6IjZkOTc1ZDdjLWJlZTMtNDNlZS05ZWM3LTI2YTc5Yzg5NGRlNyIsImMiOjF9&pageName=ReportSection
+).
 
 
 ## Project Description
