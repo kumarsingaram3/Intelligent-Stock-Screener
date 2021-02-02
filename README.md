@@ -6,6 +6,9 @@ Built a stock screening tool using KMeans clustering to help investors speed up 
 ## Table of Contents
 
 - [Project Description](#headers)
+- [Technologies](#headers)
+- [Methods](#headers)
+- [Installation & Instructions](#headers)
 
 ## Project Description
 
@@ -31,11 +34,7 @@ The problem with the stock screener is that companies are grouped in a rule base
 * Unsupervised Learning Techniques
 * Investment Research
 
-## How to Use K-Means Clustering Stock Screener
-
-Below are the instructions for how to use the K-Means Clustering Stock Screener. 
-
-### Installation & Instructions
+## Installation & Instructions
 
 **To run the script that refreshes with the latest financial information from Yahoo Finance and clusters each company:**
 
