@@ -3,6 +3,9 @@
 Built a stock screening tool using KMeans clustering to help investors speed up their investment process and identify overlooked opportunities in the market. The tool is available for use publicly, and can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiOTU1ODFhZDYtNTU0OC00YTg2LWJlZWEtMzcyMDgyY2NkZjRkIiwidCI6IjZkOTc1ZDdjLWJlZTMtNDNlZS05ZWM3LTI2YTc5Yzg5NGRlNyIsImMiOjF9&pageName=ReportSection
 ).
 
+## Table of Contents
+
+- [Project Description](#headers)
 
 ## Project Description
 
@@ -34,11 +37,11 @@ Below are the instructions for how to use the K-Means Clustering Stock Screener.
 
 ### Installation & Instructions
 
-**To run the script that refreshes with the latest financial information from Yahoo Finance:**
+**To run the script that refreshes with the latest financial information from Yahoo Finance and clusters each company:**
 
 * Clone this repo to your computer
 * Install necessary packages noted under Technologies
-* Save [ticker_list.csv](https://github.com/kumarsingaram3/Clustering-Stock-Screener/blob/main/ticker_list.csv) to your computer (update ticker data as desired)
+* Save [ticker_list.csv](https://github.com/kumarsingaram3/Clustering-Stock-Screener/blob/main/ticker_list.csv) to your computer
 
 **To learn how to use the stock screening tool, follow the instructions below:**
 
