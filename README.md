@@ -5,10 +5,10 @@ Built a stock screening tool using KMeans clustering to help investors speed up 
 
 ## Table of Contents
 
-- [Project Description](#headers)
-- [Technologies](#headers)
-- [Methods](#headers)
-- [Installation & Instructions](#headers)
+- [Project Description](#heading)
+- [Technologies](#heading-1)
+- [Methods](#heading-2)
+- [Installation & Instructions](#heading-3)
 
 ## Project Description
 
