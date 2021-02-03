@@ -19,8 +19,28 @@ The problem with the stock screener is that companies are grouped in a rule base
 
 ## Model Output and Findings
 
-[Image](k_clusters_img.png)
+In creating the model, we wanted to be able to visualize detailed profiles of a diverse set of companies. To do that, we clustered on the 8 features listed below:
 
+* Gross Margin %
+* Operating Margin %
+* Research & Development %
+* General & Administrative %
+* Free Cash Flow %
+* Capital Expenditures %
+* 3 Year Sales Growth
+* 3 Year Net Income Growth
+
+Because we chose these composition ratios rather than the raw financial numbers, we were able to cluster together companies of various sizes, which can help investors find lookalike companies that may be on a smaller scale and not quite as well known. Once we figured out what to cluster on, the next question is how many clusters should we have? There is usually no easy answer to this and it is often a manual process. To answer this, the first step we took was to test a range of clusters to minimize a cost function known as Sum of Squared Distances or SSD. You can see the results of this below:
+
+![k_clusters_img](https://user-images.githubusercontent.com/75543007/106693662-ebcc2a80-65a4-11eb-9cda-0a5b0c266d36.PNG)
+
+Using the chart above, we ultimately chose 11 clusters for the model. In our case, there must be a balance between interpretability for users and error minimization. Too many clusters, makes for a confusing tool. And too few clusters would lead to a lack of actionable insights.
+
+With the 11 clusters in hand, we built many charts to understand each cluster better. We also built the summary table below, which helped us construct our final profiles that we could use in our tool.
+
+![k_profiles](https://user-images.githubusercontent.com/75543007/106694939-8cbbe500-65a7-11eb-89a8-7b46ef40d8ea.PNG)
+
+The insights gained from this table and the other charts we built, made it easy to label our clusters. Here are the final groups used in the tool:
 
 •	**Cluster 0** - Low Margin Grind: These companies are in competitive industries without much room for error.\
 •	**Cluster 1** - Steady Compounders: These are businesses mostly in the mature phase of their company's life cycle.\
@@ -34,6 +54,9 @@ The problem with the stock screener is that companies are grouped in a rule base
 •	**Cluster 9** - No Man's Land: The oddball companies. There's no one else like 'em.\
 •	**Cluster 10** - Taking Profits: Many of these companies have begun to show saturation/have saturated their respective markets.
 
+Power BI Cluster Tool Preview:
+
+![pbi_tool](https://user-images.githubusercontent.com/75543007/106695305-4d41c880-65a8-11eb-8171-bb55d9027a2a.PNG)
 
 ## Technologies
 
