@@ -54,7 +54,7 @@ The insights gained from this table and the other charts we built, made it easy 
 •	**Cluster 9** - No Man's Land: The oddball companies. There's no one else like 'em.\
 •	**Cluster 10** - Taking Profits: Many of these companies have begun to show saturation/have saturated their respective markets.
 
-Power BI Cluster Tool Preview:
+**Power BI Cluster Tool Preview:**
 
 ![pbi_tool](https://user-images.githubusercontent.com/75543007/106695305-4d41c880-65a8-11eb-8171-bb55d9027a2a.PNG)
 
