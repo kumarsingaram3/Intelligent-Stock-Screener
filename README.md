@@ -42,17 +42,17 @@ With the 11 clusters in hand, we built many charts to understand each cluster be
 
 The insights gained from this table and the other charts we built, made it easy to label our clusters. Here are the final groups used in the tool:
 
-•	**Cluster 0** - Taking Share: These companies provide expensive/subsidized services to their customers, allowing them to grow faster.\
-•	**Cluster 1** - Taking Profits: Many of these companies have begun to show saturation/have saturated their respective markets.\
-•	**Cluster 2** - R&D Charged Growth: These companies have skill/proprietary advantages allowing them to take share/raise prices.\
-•	**Cluster 3** - Efficient Compounders: These companies relatively spend very little to make money.\
-•	**Cluster 4** - Low Margin Grind: These companies are in competitive industries without much room for error.\
-•	**Cluster 5** - Steady Compounders: These are businesses mostly in the mature phase of their company's life cycle.\
-•	**Cluster 6** - Capital Intensive Compounders: These businesses spend a lot on CapEx, making them expensive to compete with.\
-•	**Cluster 7** - Venture Style Growth: Fast growth & high margins allow these businesses to reinvest all their earnings.\
-•	**Cluster 8** - Raising Prices: No group has grown earnings faster. These companies are in the process of monetizing their customers.\
-•	**Cluster 9** - No Man's Land: The oddball companies. There's no one else like 'em.\
-•	**Cluster 10** - Rough Patch: These companies have shown significant decline.
+•	Taking Share: These companies provide expensive/subsidized services to their customers, allowing them to grow faster.\
+•	Taking Profits: Many of these companies have begun to show saturation/have saturated their respective markets.\
+•	R&D Charged Growth: These companies have skill/proprietary advantages allowing them to take share/raise prices.\
+•	Efficient Compounders: These companies relatively spend very little to make money.\
+•	Low Margin Grind: These companies are in competitive industries without much room for error.\
+•	Steady Compounders: These are businesses mostly in the mature phase of their company's life cycle.\
+•	Capital Intensive Compounders: These businesses spend a lot on CapEx, making them expensive to compete with.\
+•	Venture Style Growth: Fast growth & high margins allow these businesses to reinvest all their earnings.\
+•	Raising Prices: No group has grown earnings faster. These companies are in the process of monetizing their customers.\
+•	No Man's Land: The oddball companies. There's no one else like 'em.\
+•	Rough Patch: These companies have shown significant decline.
 
 **Power BI Cluster Tool Preview:**
 
