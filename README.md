@@ -118,7 +118,7 @@ The detail tab reflects filters set in Cluster Group, Stock Ticker, and Market C
 
 **Valuation Metrics:**
 
-Price to Gross Profit (PGP), Price to Free Cash Flow (PFCF), PGPG, and PFCFG are ratios to evaluate companies of different types. PGPG and PFCFG specifically, are ratios that adjust PGP and PFCF for growth. Meaning, companies that have grown very faster in either area, would have a lower PGPG and PFCFG.
+Price to Gross Profit (PGP), Price to Free Cash Flow (PFCF), PGPG, and PFCFG are ratios to evaluate companies of different types. PGPG and PFCFG specifically, are ratios that adjust PGP and PFCF for growth. Meaning, companies that have grown very fast in either area, would have a lower PGPG and PFCFG.
 
 **Growth Metrics:**
 
